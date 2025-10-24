@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vitclassroom/static/css/main.c0cc3070.css",
-    "main.js": "/vitclassroom/static/js/main.32ba655d.js",
+    "main.js": "/vitclassroom/static/js/main.ab44582e.js",
     "index.html": "/vitclassroom/index.html",
     "main.c0cc3070.css.map": "/vitclassroom/static/css/main.c0cc3070.css.map",
-    "main.32ba655d.js.map": "/vitclassroom/static/js/main.32ba655d.js.map"
+    "main.ab44582e.js.map": "/vitclassroom/static/js/main.ab44582e.js.map"
   },
   "entrypoints": [
     "static/css/main.c0cc3070.css",
-    "static/js/main.32ba655d.js"
+    "static/js/main.ab44582e.js"
   ]
 }
